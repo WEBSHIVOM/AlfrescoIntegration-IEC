@@ -1,0 +1,6 @@
+<webscript>
+   <shortname>New Work Item Proposal</shortname>
+   <description>New Work Item Proposal</description>
+   <family>site-dashlet</family>
+   <url>/components/dashlets/new-work-item-proposal</url>
+</webscript>

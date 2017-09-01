@@ -1,0 +1,6 @@
+<webscript>
+  <shortname>New Doc Type</shortname>
+  <description>create new document type.</description>
+  <url>/docType</url>
+  <authentication>user</authentication>
+</webscript>

@@ -1,0 +1,6 @@
+<webscript>
+   <shortname>Metadata Search</shortname>
+   <description>Metadata Search</description>
+   <family>site-dashlet</family>
+   <url>/components/dashlets/metadata-search</url>
+</webscript>

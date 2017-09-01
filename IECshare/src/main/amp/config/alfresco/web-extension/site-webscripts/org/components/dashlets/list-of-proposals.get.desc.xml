@@ -1,0 +1,6 @@
+<webscript>
+   <shortname>List Of Proposals</shortname>
+   <description>List Of Proposals</description>
+   <family>site-dashlet</family>
+   <url>/components/dashlets/list-of-proposals</url>
+</webscript>

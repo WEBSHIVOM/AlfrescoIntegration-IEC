@@ -1,0 +1,6 @@
+<webscript>
+   <shortname>Proposal Metadata Search</shortname>
+   <description>proposal search dashlet</description>
+   <family>user-dashlet</family>
+   <url>/components/dashlets/proposal-search</url>
+</webscript>

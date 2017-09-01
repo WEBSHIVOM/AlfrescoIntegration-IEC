@@ -1,0 +1,7 @@
+<webscript>
+  <shortname>list</shortname>
+  <description>Form to upload file.</description>
+  <url>/count.json</url>
+<transaction>required</transaction>
+<authentication>user</authentication>
+</webscript>

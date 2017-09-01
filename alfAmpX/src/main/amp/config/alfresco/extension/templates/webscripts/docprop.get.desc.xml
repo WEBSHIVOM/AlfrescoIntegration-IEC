@@ -1,0 +1,7 @@
+<webscript>
+<shortname>Document Property</shortname>
+<description>It provides document’s name and date of creation and Creator property</description>
+<url>/sample/docprop.json</url>
+<authentication>user</authentication>
+<transaction>required</transaction>
+</webscript>

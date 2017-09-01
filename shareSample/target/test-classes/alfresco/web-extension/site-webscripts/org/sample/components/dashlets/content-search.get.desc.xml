@@ -1,0 +1,6 @@
+<webscript>
+   <shortname>Content Search</shortname>
+   <description>Content Search</description>
+   <family>site-dashlet</family>
+   <url>/components/dashlets/content-search</url>
+</webscript>

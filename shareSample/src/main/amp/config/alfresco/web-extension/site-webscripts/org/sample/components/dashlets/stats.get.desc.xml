@@ -1,0 +1,6 @@
+<webscript>
+   <shortname>Stats </shortname>
+   <description>Dashlet to list stats property from Alfresco</description>
+   <family>user-dashlet</family>
+   <url>/components/dashlets/counting</url>
+</webscript>

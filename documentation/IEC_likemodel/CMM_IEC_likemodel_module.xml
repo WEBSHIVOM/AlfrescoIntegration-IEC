@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><module>
+   <id>CMM_IEC_likemodel</id>
+   <auto-deploy>true</auto-deploy>
+   <configurations>
+      
+      <!-- Document Library config section -->
+      <config condition="DocumentLibrary" evaluator="string-compare" replace="false">
+         <aspects>
+            <visible>
+               <aspect label="rating_aspect" name="rm:rating_aspect"/>
+            </visible>
+         </aspects>
+      </config>
+
+      <!-- Form configuration section - type -->
+      
+      <!-- Form configuration section - aspect -->
+      
+      <!-- Entity form designer configuration -->
+      <config condition="FormDefinition" evaluator="string-compare">
+      </config>
+
+   </configurations>
+</module>

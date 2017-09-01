@@ -1,0 +1,6 @@
+<webscript> 
+  <shortname>file delete</shortname> 
+  <description>file delete</description>
+  <url>/delete</url> 
+  <authentication>user</authentication> 
+</webscript>

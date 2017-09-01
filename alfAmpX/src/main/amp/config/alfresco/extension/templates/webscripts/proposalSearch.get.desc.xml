@@ -1,0 +1,7 @@
+<webscript>
+<shortname>Proposal Search</shortname>
+<description>proposal searching</description>
+<url>/proposalSearch.json</url>
+<authentication>user</authentication>
+<transaction>required</transaction>
+</webscript>

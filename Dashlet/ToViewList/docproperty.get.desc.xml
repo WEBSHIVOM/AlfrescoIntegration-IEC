@@ -1,0 +1,6 @@
+<webscript>
+   <shortname>Documen Property</shortname>
+   <description>Dashlet to list document property from Alfresco</description>
+   <family>user-dashlet</family>
+   <url>/components/dashlets/docproperty</url>
+</webscript>

@@ -1,0 +1,6 @@
+<webscript>
+   <shortname>Create Project Record</shortname>
+   <description>Create Project Record</description>
+   <family>site-dashlet</family>
+   <url>/components/dashlets/create-project-record</url>
+</webscript>

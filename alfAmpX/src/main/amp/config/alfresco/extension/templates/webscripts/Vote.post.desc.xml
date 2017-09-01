@@ -1,0 +1,6 @@
+<webscript>
+  <shortname>Vote</shortname>
+  <description>Handling of vote requests.</description>
+  <url>/vote</url>
+  <authentication>user</authentication>
+</webscript>
